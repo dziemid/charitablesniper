@@ -1,0 +1,3 @@
+require_relative 'charitable_sniper/watsi_api_client'
+require_relative 'charitable_sniper/sniper'
+require_relative 'charitable_sniper/twitter_api_client'
