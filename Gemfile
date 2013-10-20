@@ -3,6 +3,7 @@ source "https://rubygems.org/"
 # App Stack
 gem "sinatra", "~> 1.3"
 gem "patron", "~> 0.4"
+gem "twitter", "~> 4.8"
 
 # Database Stack
 #gem "sequel"
