@@ -1,7 +1,7 @@
 # Charitable Sniper
 
 Checks if there are any profiles on https://watsi.org/ that could be fully funded for less than 10$.
-If so, sends a tweet about with link to those profiles.
+If so, sends a tweet about it with link to those profiles.
 
 Sample twitter account: https://twitter.com/charitables10
 
