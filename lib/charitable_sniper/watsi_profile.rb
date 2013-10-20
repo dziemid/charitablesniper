@@ -24,7 +24,7 @@ module CharitableSniper
     end
 
     def ready?
-      @target_to_go <= 10
+      @target_to_go <= 200
     end
 
     def to_s
