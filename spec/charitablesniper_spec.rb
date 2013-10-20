@@ -10,7 +10,7 @@ describe Charitablesniper do
   include Rack::Test::Methods
 
   it "responds with a welcome message" do
-    get '/triger'
+    post '/triger'
     expect(last_response.body).to include("works")
   end
 end
